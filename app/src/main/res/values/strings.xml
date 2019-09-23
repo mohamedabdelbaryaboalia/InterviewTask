@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Jawabkom Task</string>
+    <string name="base_api_url">http://sumamo.de/</string>
+    <string name="price_label">price : </string>
+    <string name="milage_label">Milage :</string>
+    <string name="make_label">Make :</string>
+    <string name="fuel_type_label">Fuel Type :</string>
+    <string name="default_currency">$</string>
+    <string name="default_distance_unit">Mile</string>
+</resources>
